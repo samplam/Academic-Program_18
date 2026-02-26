@@ -2,7 +2,7 @@
 My eighteenth evaluated program for an academic course. The game is called "ChickenVac3200".
 
 ## Overview
-This
+I had to make a game as an evaluation for an academic course. There was no restrictions : I took note of that ... so I tried to make it a little funny. The game is in French, nevertheless, it's not complicated. I translated the comments to English. The goal is to vacuum all the chickens on the map before the countdown reaches 0.
 
 ## Features
 - Python coding with loops and logic
@@ -16,11 +16,13 @@ This
 - Use of OOP
 - Use of FP
 - Use of modules
+- Use of exceptions
 
 ## Usage
 1. Open 'Principal.py' in Python
-2. Have fun
+2. Use the arrows to move and "Left CTRL" to vacuum some chickens.
+3. Have fun
 
 ## Notes
 - Coded in 2025 during my Bachelor's degree
-- For this project, the use of AI was not only permitted, but encouraged. ChatGPT was used as help to code this game.
+- For this project, the use of AI was not only permitted, but encouraged. ChatGPT was used to help coding this game.
